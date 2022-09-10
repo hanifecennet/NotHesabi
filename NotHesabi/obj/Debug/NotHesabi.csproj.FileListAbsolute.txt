@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.Form1.resources
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.Properties.Resources.resources
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.exe.config
+C:\Users\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.exe
+C:\Users\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.pdb
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.exe
+C:\Users\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.exe.config
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\bin\Debug\NotHesabi.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.Form1.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\NotHesabi\NotHesabi\obj\Debug\NotHesabi.pdb
